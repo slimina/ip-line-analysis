@@ -5,9 +5,10 @@
 教育网	cernet
 科技网	cstnet
 有线通	colnet
-有线宽带	etrunk
 长城宽带	gwbn
 方正宽带	founderbn
+广电网	chinabtn
+天威宽带	topwaynet
 
 
 获取IP信息来源：

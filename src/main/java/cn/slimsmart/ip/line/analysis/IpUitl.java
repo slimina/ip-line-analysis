@@ -2,6 +2,7 @@ package cn.slimsmart.ip.line.analysis;
 
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Set;
 
 public class IpUitl {
 
@@ -26,12 +27,22 @@ public class IpUitl {
 	
 	public static String getLineByNetname(String netname,Map<String,String> netNameLineMap){
 		for(Entry<String, String> en :netNameLineMap.entrySet()){
-			 if(netname.indexOf(en.getKey())!=-1){
+			 if(netname.toUpperCase().indexOf(en.getKey().toUpperCase())!=-1){
 				 return en.getValue();
 			 }
 		}
 		return null;
 	}
+	
+	public static boolean isContainUnknownNetName(String netname,Set<String> set){
+		for(String name : set){
+			if(netname.toUpperCase().indexOf(name.toUpperCase())!= -1){
+				return true;
+			}
+		}
+		return false;
+	}
+	
 	
 	public static void main(String [] aa){
 		System.out.println(getIPRang("14.196.0.0",131072));
