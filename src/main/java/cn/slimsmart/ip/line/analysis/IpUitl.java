@@ -1,5 +1,8 @@
 package cn.slimsmart.ip.line.analysis;
 
+import java.util.Map;
+import java.util.Map.Entry;
+
 public class IpUitl {
 
 	public static Long getIP(String ipaddr) {
@@ -21,7 +24,14 @@ public class IpUitl {
 		return ip+"/"+n;
 	}
 	
-	
+	public static String getLineByNetname(String netname,Map<String,String> netNameLineMap){
+		for(Entry<String, String> en :netNameLineMap.entrySet()){
+			 if(netname.indexOf(en.getKey())!=-1){
+				 return en.getValue();
+			 }
+		}
+		return null;
+	}
 	
 	public static void main(String [] aa){
 		System.out.println(getIPRang("14.196.0.0",131072));

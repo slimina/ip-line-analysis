@@ -12,7 +12,7 @@ import java.io.IOException;
  * 
  * @author zhutianwei
  */
-public class AnalysisForCNAndIpv4 {
+public class ObtainCNAndIpv4 {
 
 	public static void main(String[] args) throws IOException {
 		File srcFile = new File("src/main/resources/delegated-apnic-latest");
