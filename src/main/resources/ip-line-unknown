@@ -1,22 +1,16 @@
 42.186.0.0   65536   GSCOM   MAINT-CNNIC-AP
-42.192.0.0   131072   YOVOLE   MAINT-CNNIC-AP
 42.194.12.0   1024   TRLCNET   MAINT-CNNIC-AP
-42.201.0.0   32768   ZONERGY   :["% APNIC found the following authoritative answer from: whois.apnic.net
 42.244.0.0   262144   SUDA-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 43.224.80.0   1024   ZSTW-NET   MAINT-CNNIC-AP
-43.225.124.0   1024   XIAOZHIYUN-CN   MAINT-XIAOZHIYUN-CN
-43.225.172.0   1024   GOTOCLOUDLIMITED-CN   MAINT-GOTOCLOUDLIMITED-CN
 43.241.180.0   1024   TECIDNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 43.241.252.0   1024   KGEC-HK   MAINT-KGEC-CN
 43.242.44.0   1024   HGEC-CN   MAINT-HGEC-CN
 43.242.192.0   1024   PRIMETELECOM   MAINT-CNNIC-AP
 43.243.24.0   1024   CCONCC-CN   MAINT-1-CN
-43.243.168.0   1024   DNS021-CN   MAINT-DNS021-CN
 43.243.188.0   1024   NLN-CN   MAINT-NLN-CN
 43.247.4.0   1024   TNCCN   MAINT-CNNIC-AP
 43.247.88.0   1024   ZDISP   :["% APNIC found the following authoritative answer from: whois.apnic.net
 43.247.100.0   1024   Global-ICT   MAINT-CNNIC-AP
-43.247.176.0   1024   JSBW   MAINT-CNNIC-AP
 43.248.56.0   1024   SKN-CN   MAINT-SKN-CN
 43.248.148.0   1024   ESOCC   MAINT-CNNIC-AP
 43.249.0.0   1024   CWDDTCL   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -27,7 +21,6 @@
 43.250.72.0   1024   GZHYINET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 43.250.100.0   1024   JLPCCCK   MAINT-CNNIC-AP
 43.250.108.0   1024   JLCCCCK   MAINT-CNNIC-AP
-43.250.116.0   1024   cqgywl   :["% APNIC found the following authoritative answer from: whois.apnic.net
 43.250.236.0   1024   PEOPLENET   MAINT-CNNIC-AP
 43.251.8.0   1024   GLNTC-CN   MAINT-GLNTC-CN
 43.251.16.0   512   SFSC-CN   MAINT-SFSC-CN
@@ -44,52 +37,9 @@
 43.255.224.0   1024   Lenovo-BeiJing   MAINT-CNNIC-AP
 43.255.228.0   1024   LDNET   MAINT-CNNIC-AP
 45.64.112.0   512   MAINT-SFSC-CN   MAINT-HVISCL-HK
-45.112.208.0   1024   YOUKU-Film   MAINT-CNNIC-AP
-45.112.212.0   1024   YOUKU-XIAN   MAINT-CNNIC-AP
-45.112.216.0   1024   TUDOU-NET   MAINT-CNNIC-AP
-45.112.220.0   1024   TUDOU-Culture   MAINT-CNNIC-AP
-45.112.228.0   1024   TJ-ZDRJ   MAINT-CNNIC-AP
-45.112.232.0   1024   TJ-MHKJ   MAINT-CNNIC-AP
-45.112.236.0   1024   TJ-SSWL   MAINT-CNNIC-AP
-45.113.12.0   1024   GZPRBNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-45.113.16.0   1024   JXYT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-45.113.20.0   1024   BCACNET   MAINT-CNNIC-AP
-45.113.24.0   1024   NJANLAI   :["% APNIC found the following authoritative answer from: whois.apnic.net
-45.113.52.0   1024   wushengshi   MAINT-CNNIC-AP
-45.113.56.0   1024   ZSN   MAINT-CNNIC-AP
-45.113.72.0   1024   Neunn   MAINT-CNNIC-AP
 45.113.108.0   1024   SGBSCL-CN   MAINT-SGBSCL-CN
-45.113.144.0   1024   dolinkchina   MAINT-CNNIC-AP
-45.113.148.0   1024   guomen   MAINT-CNNIC-AP
-45.113.168.0   1024   SIC-CN   MAINT-SIC-AP
-45.113.176.0   1024   SXTECH   MAINT-CNNIC-AP
-45.113.184.0   1024   NEWSOFT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-45.113.200.0   1024   WEBLL-CN   MAINT-CNNIC-AP
-45.113.204.0   1024   NAWANG   MAINT-CNNIC-AP
-45.113.208.0   1024   Ledui   MAINT-CNNIC-AP
-45.113.212.0   1024   Bjleijin   MAINT-CNNIC-AP
-45.113.216.0   1024   dongnanwuxian   MAINT-CNNIC-AP
-45.113.220.0   1024   jnleijin   MAINT-CNNIC-AP
-45.113.228.0   1024   RHXTuneCLOUD   MAINT-CNNIC-AP
-45.113.240.0   1024   BITIDC   MAINT-CNNIC-AP
-45.113.252.0   1024   GDDF   MAINT-CNNIC-AP
-45.114.0.0   1024   EASTNET   MAINT-CNNIC-AP
-45.114.12.0   1024   WXASCL-CN   MAINT-WXASCL-CN
-45.114.32.0   1024   Zhiyun   MAINT-CNNIC-AP
-45.114.40.0   1024   XMDNS   MAINT-CNNIC-AP
-45.114.52.0   1024   HZXTnet   MAINT-CNNIC-AP
-45.114.96.0   1024   Nine-cloud   MAINT-CNNIC-AP
 45.114.104.0   1024   BBEL-CN   MAINT-BBEL-CN
-45.114.136.0   1024   CDTNET   MAINT-CNNIC-AP
-45.114.196.0   1024   DLYDnet   MAINT-CNNIC-AP
-45.114.200.0   1024   JSYDnet   MAINT-CNNIC-AP
-45.114.228.0   1024   HEZHONG   MAINT-CNNIC-AP
-45.114.236.0   1024   sdsdit   MAINT-CNNIC-AP
-45.114.252.0   1024   YAMUTECH-CN   MAINT-YAMUTECH-CN
-45.115.44.0   1024   Shanghai263   MAINT-CNNIC-AP
-45.115.100.0   1024   YUNNUOYIXIAN   MAINT-CNNIC-AP
 49.4.0.0   262144   CNISP-UNION   MAINT-AP-CNISP
-49.51.0.0   65536   SQI   MAINT-CNNIC-AP
 49.52.0.0   262144   ECNU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 49.120.0.0   262144   HUST-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 49.140.0.0   131072   JLU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -173,8 +123,6 @@
 101.196.0.0   262144   XINDONG   MAINT-CNNIC-AP
 101.232.0.0   131072   ZTWL   MAINT-CNNIC-AP
 101.236.0.0   262144   HLHT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-101.251.64.0   16384   ZSN   MAINT-CNNIC-AP
-101.251.128.0   32768   NXIDC   MAINT-CNNIC-AP
 103.1.8.0   1024   CAGN   MAINT-CNNIC-AP
 103.1.20.0   1024   TJBTN   MAINT-CNNIC-AP
 103.1.24.0   1024   LINW   MAINT-CNNIC-AP
@@ -189,7 +137,6 @@
 103.4.168.0   1024   BMWNSC   MAINT-CNNIC-AP
 103.4.184.0   1024   SC-SC   MAINT-CNNIC-AP
 103.5.36.0   1024   TJHLNET   MAINT-CNNIC-AP
-103.6.76.0   1024   Baidu   MAINT-CNNIC-AP
 103.7.4.0   1024   LETV-CN   MAINT-LETV-CN
 103.7.212.0   1024   MQIDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.7.220.0   1024   WangYuanXinHui   MAINT-CNNIC-AP
@@ -213,39 +160,27 @@
 103.14.112.0   1024   HK   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.14.132.0   1024   USTC-GZ   MAINT-CNNIC-AP
 103.14.156.0   1024   KuaiWang   MAINT-CNNIC-AP
-103.14.240.0   1024   Ebadu   MAINT-CNNIC-AP
 103.15.4.0   1024   Jconline   MAINT-CNNIC-AP
 103.15.16.0   1024   gotowebinar   MAINT-CNNIC-AP
 103.15.96.0   1024   ZJZHILE   MAINT-CNNIC-AP
-103.15.200.0   1024   CQWLnet   MAINT-CNNIC-AP
 103.16.52.0   1024   CSSDNET   MAINT-CNNIC-AP
 103.16.80.0   1024   HuiDaChuangXin   MAINT-CNNIC-AP
 103.16.84.0   1024   WORLDCOM   MAINT-CNNIC-AP
 103.16.88.0   1024   UnitedNetwork   MAINT-CNNIC-AP
-103.16.108.0   1024   CGWICT   MAINT-CNNIC-AP
 103.16.124.0   1024   YOUWE   MAINT-CNNIC-AP
-103.17.120.0   1024   ZSN   MAINT-CNNIC-AP
 103.17.204.0   1024   SPISC   MAINT-CNNIC-AP
 103.18.192.0   1024   GDIC   MAINT-CNNIC-AP
-103.18.224.0   1024   NXIDC   MAINT-CNNIC-AP
 103.19.12.0   1024   SOHU   MAINT-CNNIC-AP
-103.19.40.0   1024   MDYNET   MAINT-CNNIC-AP
-103.19.44.0   1024   GSSNET   MAINT-CNNIC-AP
 103.19.64.0   1024   TC-NET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.19.68.0   1024   BMW-SF-CN   MAINT-CNNIC-AP
 103.19.72.0   1024   SZDNET   MAINT-CNNIC-AP
 103.20.12.0   1024   FN-CN   MAINT-CNNIC-AP
-103.20.128.0   1024   ZONERGY   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.20.160.0   1024   FOCUSTECHNET   MAINT-CNNIC-AP
-103.21.112.0   1024   QIHOO   MAINT-CNNIC-AP
 103.21.136.0   1024   ZZNET-SVA   MAINT-ZZNET1-CN
 103.21.140.0   1024   ShanghaiMeicheng   MAINT-CNNIC-AP
 103.21.208.0   1024   KGEC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.22.228.0   1024   ZopleCCT   MAINT-CNNIC-AP
 103.22.252.0   1024   PSBCNET   MAINT-CNNIC-AP
-103.23.164.0   1024   CDTNET   MAINT-CNNIC-AP
 103.23.228.0   1024   CloudXP-NET   MAINT-CNNIC-AP
-103.24.116.0   1024   KHTech   MAINT-CNNIC-AP
 103.24.128.0   1024   SHUJUJIA   MAINT-CNNIC-AP
 103.24.220.0   1024   CLOUDVOPNET   MAINT-CNNIC-AP
 103.24.228.0   1024   cnkuai   MAINT-CNNIC-AP
@@ -253,121 +188,59 @@
 103.25.8.0   512   CTHKI-HK   MAINT-HK-HTFNET
 103.25.28.0   1024   XHKD   MAINT-CNNIC-AP
 103.25.32.0   1024   QCN   MAINT-CNNIC-AP
-103.25.40.0   1024   ERENB-NET   MAINT-CNNIC-AP
 103.25.48.0   1024   GSCOM   MAINT-CNNIC-AP
 103.25.64.0   1024   ABTNET-SH-AS-AP   MAINT-CNNIC-AP
 103.25.68.0   1024   CCME   MAINT-CNNIC-AP
-103.25.148.0   1024   CDTNET   MAINT-CNNIC-AP
 103.25.156.0   1024   MSNJVCNNET   MAINT-CNNIC-AP
 103.25.216.0   1024   YIJIANET   MAINT-CNNIC-AP
-103.26.156.0   1024   CQWLnet   MAINT-CNNIC-AP
-103.26.228.0   1024   Shanghai263   MAINT-CNNIC-AP
 103.27.12.0   1024   BJCDNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.27.56.0   1024   JSBN   MAINT-CNNIC-AP
 103.27.96.0   1024   TOaP-NET   MAINT-CNNIC-AP
 103.27.208.0   1024   SCSJLX-CN   MAINT-SCSJLX-CN
 103.28.4.0   1024   SUSTC-NET   MAINT-CNNIC-AP
-103.28.8.0   1024   QIHOO   MAINT-CNNIC-AP
-103.28.204.0   1024   Ebadu   MAINT-CNNIC-AP
 103.29.16.0   1024   TGIDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.29.132.0   1024   WangYuanXinHui   MAINT-CNNIC-AP
 103.29.136.0   1024   DRC   MAINT-CNNIC-AP
 103.30.200.0   1024   QY   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.30.216.0   1024   CECISP   MAINT-CNNIC-AP
-103.30.228.0   1024   CQWLnet   MAINT-CNNIC-AP
 103.31.0.0   1024   SANJITECH   MAINT-CNNIC-AP
-103.31.52.0   1024   HSOFT   MAINT-CNNIC-AP
 103.31.56.0   1024   FLYDNET   MAINT-CNNIC-AP
 103.31.60.0   1024   XBNET   MAINT-CNNIC-AP
 103.31.64.0   1024   MaiChuang   MAINT-CNNIC-AP
 103.31.68.0   1024   XINDONG   MAINT-CNNIC-AP
 103.31.160.0   1024   ZZGIANT   MAINT-CNNIC-AP
-103.35.12.0   1024   whshwlkj   MAINT-CNNIC-AP
 103.36.96.0   1024   MSNJVCNNET   MAINT-CNNIC-AP
-103.37.104.0   1024   GBJFNET   MAINT-CNNIC-AP
 103.37.248.0   1024   HGEC-CN   MAINT-HGEC-CN
 103.38.76.0   1024   PRIMETELECOM   MAINT-CNNIC-AP
-103.38.220.0   1024   RunstoneNet   MAINT-CNNIC-AP
-103.38.252.0   1024   DNS021-CN   MAINT-DNS021-CN
 103.39.16.0   1024   NLN-CN   MAINT-NLN-CN
-103.39.104.0   1024   Neunn   MAINT-CNNIC-AP
 103.39.108.0   1024   TOINTER-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.39.144.0   1024   SKN-CN   MAINT-SKN-CN
-103.40.88.0   1024   HRTN   MAINT-CNNIC-AP
 103.40.112.0   1024   SCXJX-CN   MAINT-SCXJX-CN
-103.40.228.0   1024   BJJL-IDC   MAINT-CNNIC-AP
 103.41.16.0   1024   HUAJIASALES-CN   MAINT-HUAJIASALES-CN
 103.41.140.0   1024   HEYIXINXI-CN   MAINT-CNNIC-AP
 103.41.148.0   1024   Whgreatwbnnet   MAINT-CNNIC-AP
 103.41.152.0   1024   whxxnet   MAINT-CNNIC-AP
 103.41.220.0   1024   JLPCCCK   MAINT-CNNIC-AP
 103.41.224.0   1024   JLCCCCK   MAINT-CNNIC-AP
-103.41.228.0   1024   Linkwww   MAINT-CNNIC-AP
-103.41.232.0   1024   cqgywl   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.42.76.0   1024   PEOPLENET   MAINT-CNNIC-AP
 103.42.104.0   1024   GLNTC-CN   MAINT-GLNTC-CN
 103.42.180.0   1024   SHENZHEN-CN   MAINT-SHENZHEN-CN
 103.43.16.0   1024   cnaaa   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.43.24.0   1024   ZHENGZHOU1-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.43.104.0   1024   ZSTW-NET   MAINT-CNNIC-AP
-103.43.124.0   1024   STC-Shanghai   MAINT-CNNIC-AP
-103.44.88.0   1024   XIAOZHIYUN-CN   MAINT-XIAOZHIYUN-CN
-103.44.132.0   1024   GOTOCLOUDLIMITED-CN   MAINT-GOTOCLOUDLIMITED-CN
-103.48.202.0   512   GSI-AP   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.49.92.0   1024   SHANXI1-CN   MAINT-SHANXI1-CN
-103.49.180.0   1024   DYXNET-CN   MAINT-CNNIC-AP
-103.52.72.0   1024   YOUKU-Film   MAINT-CNNIC-AP
-103.52.76.0   1024   YOUKU-XIAN   MAINT-CNNIC-AP
-103.52.80.0   1024   TUDOU-NET   MAINT-CNNIC-AP
-103.52.84.0   1024   TUDOU-Culture   MAINT-CNNIC-AP
-103.52.96.0   1024   TJ-ZDRJ   MAINT-CNNIC-AP
-103.52.100.0   1024   TJ-MHKJ   MAINT-CNNIC-AP
-103.52.104.0   1024   TJ-SSWL   MAINT-CNNIC-AP
-103.52.160.0   1024   GZPRBNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.52.164.0   1024   JXYT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.52.172.0   1024   BCACNET   MAINT-CNNIC-AP
-103.52.176.0   1024   NJANLAI   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.53.4.0   1024   SGBSCL-CN   MAINT-SGBSCL-CN
-103.53.64.0   1024   dolinkchina   MAINT-CNNIC-AP
-103.53.68.0   1024   guomen   MAINT-CNNIC-AP
-103.53.92.0   1024   SIC-CN   MAINT-SIC-AP
-103.53.100.0   1024   SXTECH   MAINT-CNNIC-AP
-103.53.124.0   1024   WEBLL-CN   MAINT-CNNIC-AP
-103.53.128.0   1024   NAWANG   MAINT-CNNIC-AP
-103.53.132.0   1024   Ledui   MAINT-CNNIC-AP
-103.53.136.0   1024   Bjleijin   MAINT-CNNIC-AP
-103.53.140.0   1024   dongnanwuxian   MAINT-CNNIC-AP
-103.53.144.0   1024   jnleijin   MAINT-CNNIC-AP
-103.53.160.0   1024   RHXTuneCLOUD   MAINT-CNNIC-AP
-103.53.180.0   1024   BITIDC   MAINT-CNNIC-AP
-103.53.204.0   1024   GDDF   MAINT-CNNIC-AP
-103.53.208.0   1024   EASTNET   MAINT-CNNIC-AP
-103.53.216.0   1024   WXASCL-CN   MAINT-WXASCL-CN
-103.53.236.0   1024   Zhiyun   MAINT-CNNIC-AP
-103.53.248.0   1024   XMDNS   MAINT-CNNIC-AP
-103.54.8.0   1024   HZXTnet   MAINT-CNNIC-AP
-103.54.48.0   1024   Nine-cloud   MAINT-CNNIC-AP
 103.54.60.0   1024   BBEL-CN   MAINT-BBEL-CN
-103.54.160.0   1024   DLYDnet   MAINT-CNNIC-AP
-103.54.164.0   1024   JSYDnet   MAINT-CNNIC-AP
-103.54.212.0   1024   HEZHONG   MAINT-CNNIC-AP
-103.54.228.0   1024   sdsdit   MAINT-CNNIC-AP
-103.54.240.0   1024   YAMUTECH-CN   MAINT-YAMUTECH-CN
-103.55.24.0   1024   RUNIDCBGP   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.55.80.0   1024   YUNNUOYIXIAN   MAINT-CNNIC-AP
 103.224.44.0   1024   OpzoonCloud   MAINT-CNNIC-AP
 103.224.220.0   1024   Newheight   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.224.224.0   1024   TNETCN   MAINT-CNNIC-AP
 103.226.16.0   1024   gotocloud   MAINT-CNNIC-AP
 103.226.40.0   1024   DNT-NET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.226.60.0   1024   wushengshi   MAINT-CNNIC-AP
 103.226.116.0   1024   hbswitch   MAINT-CNNIC-AP
 103.226.132.0   1024   TNCCN   MAINT-CNNIC-AP
-103.226.156.0   1024   NEWSOFT   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.226.180.0   1024   bw   MAINT-CNNIC-AP
 103.226.196.0   1024   APNET   MAINT-CNNIC-AP
 103.227.72.0   1024   HJSZ-COM   MAINT-CNNIC-AP
-103.227.100.0   1024   GOPHA-HRB-IDC   MAINT-CNNIC-AP
 103.227.120.0   1024   SUNHONGS   MAINT-CNNIC-AP
 103.227.132.0   1024   WangYuanXinHui   MAINT-CNNIC-AP
 103.227.196.0   1024   YRJL   MAINT-CNNIC-AP
@@ -382,7 +255,6 @@
 103.229.136.0   1024   Berich   MAINT-CNNIC-AP
 103.229.148.0   1024   JIROAD   MAINT-CNNIC-AP
 103.229.212.0   1024   ZDISP   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.230.28.0   1024   TNCNT   MAINT-CNNIC-AP
 103.230.40.0   1024   MJOL   MAINT-CNNIC-AP
 103.230.44.0   1024   CNTEL   MAINT-CNNIC-AP
 103.230.196.0   1024   Bizcncom   MAINT-CNNIC-AP
@@ -392,56 +264,21 @@
 103.231.144.0   1024   TNCTC-CN   MAINT-TNCTC-CN
 103.231.180.0   1024   URNET   MAINT-CNNIC-AP
 103.231.184.0   1024   GZHYINET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.231.244.0   1024   DYNET   MAINT-CNNIC-AP
 103.232.4.0   1024   HC-LINK   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.232.144.0   1024   GSRTNC   MAINT-CNNIC-AP
-103.232.212.0   1024   CHINAIXP   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.233.4.0   1024   TECIDNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.233.128.0   1024   TC-NET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.233.228.0   1024   WXTech   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.234.0.0   1024   SQI   MAINT-CNNIC-AP
 103.234.20.0   1024   TGIDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.234.56.0   1024   Firstbase   MAINT-CNNIC-AP
 103.234.124.0   1024   Sunits-BeiJing   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.234.128.0   1024   Global-ICT   MAINT-CNNIC-AP
-103.234.172.0   1024   LWSJ   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.235.16.0   1024   SZWSNT-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.235.56.0   1024   XMGBNET   MAINT-CNNIC-AP
-103.235.80.0   1024   CBDTELENET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.235.128.0   1024   UPNET   MAINT-CNNIC-AP
 103.235.136.0   1024   WXData   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.235.140.0   1024   ANLAI   MAINT-CNNIC-AP
-103.235.144.0   1024   CGWNET   MAINT-CNNIC-AP
-103.235.184.0   1024   cqgywl   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.235.192.0   1024   Sungeo   MAINT-CNNIC-AP
-103.237.24.0   1024   TGCNT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-103.237.28.0   1024   UCLOUD-NET   MAINT-CNNIC-AP
 103.237.88.0   1024   JK-ICTECH   MAINT-CNNIC-AP
-103.237.176.0   1024   HACN-AY   MAINT-CNNIC-AP
-103.237.180.0   1024   HACN-HB   MAINT-CNNIC-AP
-103.237.184.0   1024   HACN   MAINT-CNNIC-AP
-103.237.188.0   1024   HACN-JY   MAINT-CNNIC-AP
-103.237.192.0   1024   HACN-JZ   MAINT-CNNIC-AP
-103.237.196.0   1024   HACN-KF   MAINT-CNNIC-AP
-103.237.200.0   1024   HACN-LY   MAINT-CNNIC-AP
-103.237.204.0   1024   HACN-LH   MAINT-CNNIC-AP
-103.237.208.0   1024   HACN-NY   MAINT-CNNIC-AP
-103.237.212.0   1024   HACN-PDS   MAINT-CNNIC-AP
-103.237.216.0   1024   HACN-PY   MAINT-CNNIC-AP
-103.237.220.0   1024   HACN-SMX   MAINT-CNNIC-AP
-103.237.224.0   1024   HACN-SQ   MAINT-CNNIC-AP
-103.237.228.0   1024   HACN-XX   MAINT-CNNIC-AP
-103.237.232.0   1024   HACN-XY   MAINT-CNNIC-AP
-103.237.236.0   1024   HACN-XC   MAINT-CNNIC-AP
-103.237.240.0   1024   HACN-ZZ   MAINT-CNNIC-AP
-103.237.244.0   1024   HACN-ZMD   MAINT-CNNIC-AP
-103.237.248.0   1024   JSBW   MAINT-CNNIC-AP
 103.238.88.0   1024   Unicloud   MAINT-CNNIC-AP
 103.238.92.0   1024   GXRTNET   MAINT-CNNIC-AP
 103.238.96.0   1024   BOC   MAINT-CNNIC-AP
 103.238.252.0   1024   HNPCNET   MAINT-CNNIC-AP
 103.239.40.0   1024   NET-6-CN   MAINT-6-CN
-103.239.152.0   1024   InspurSoftware   MAINT-CNNIC-AP
 103.239.204.0   1024   LDNET   MAINT-CNNIC-AP
 103.240.156.0   1024   DNICL-AP   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.241.72.0   1024   GAYA-CN   MAINT-SHANGHAI-CN
@@ -469,7 +306,6 @@
 103.244.80.0   1024   CloudVsp   MAINT-CNNIC-AP
 103.244.84.0   1024   STCC   MAINT-CNNIC-AP
 103.245.23.0   256   BEIJING-CN   MAINT-BEIJING-CN
-103.245.52.0   1024   YOVOLE   MAINT-CNNIC-AP
 103.245.60.0   1024   WLST   MAINT-CNNIC-AP
 103.245.80.0   1024   YIJIANET   MAINT-CNNIC-AP
 103.245.124.0   1024   sptnet   MAINT-CNNIC-AP
@@ -487,8 +323,6 @@
 103.247.200.0   1024   CNSNAP   MAINT-CNNIC-AP
 103.247.212.0   1024   WFTNET   MAINT-CNNIC-AP
 103.248.0.0   512   CTHKI-HK   MAINT-HK-HTFNET
-103.248.64.0   1024   UPNET   MAINT-CNNIC-AP
-103.248.152.0   1024   JHTXNET   MAINT-CNNIC-AP
 103.248.168.0   1024   HCNETCOM   MAINT-CNNIC-AP
 103.248.192.0   1024   Heranet   MAINT-CNNIC-AP
 103.248.212.0   1024   UPSUN   MAINT-CNNIC-AP
@@ -498,13 +332,11 @@
 103.249.128.0   1024   CloudVsp   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.249.164.0   1024   newsguide   MAINT-CNNIC-AP
 103.249.168.0   1024   neteon   MAINT-CNNIC-AP
-103.249.244.0   1024   TopnewInfoNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.250.236.0   1024   NUSKINGCNET   MAINT-CNNIC-AP
 103.251.128.0   1024   ofidc   MAINT-CNNIC-AP
 103.251.204.0   1024   BBGINETCN   MAINT-CNNIC-AP
 103.251.236.0   1024   M8TCL-HK   MAINT-HK-8LIAN
 103.252.28.0   1024   HTBN   MAINT-CNNIC-AP
-103.252.64.0   1024   Yakue   MAINT-CNNIC-AP
 103.252.172.0   1024   DKU-CN   MAINT-DKU-CN
 103.252.204.0   1024   DNIONNET   MAINT-CNNIC-AP
 103.252.208.0   1024   DNIONNET   MAINT-CNNIC-AP
@@ -523,17 +355,14 @@
 103.254.112.0   1024   YOUWE   MAINT-CNNIC-AP
 103.254.196.0   256   CHTLC-CN   MAINT-CHTLC-CN
 103.254.220.0   1024   COICL-CN   MAINT-COICL-CN
-103.255.68.0   1024   ZONERGY   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.255.136.0   1024   KH-TECH   MAINT-CNNIC-AP
 103.255.140.0   1024   MSNJVCNNET   MAINT-CNNIC-AP
 103.255.184.0   1024   VCYBER   :["% APNIC found the following authoritative answer from: whois.apnic.net
 103.255.208.0   1024   CCHVC-CN   MAINT-CCHVC-CN
 103.255.228.0   1024   HanyooLine   MAINT-CNNIC-AP
 106.2.0.0   131072   CNISP-UNION   MAINT-AP-CNISP
-106.12.0.0   262144   Baidu   MAINT-CNNIC-AP
 106.50.0.0   65536   GHXTNET   MAINT-CNNIC-AP
 106.74.0.0   65536   CU-CDC   MAINT-CNNIC-AP
-106.75.0.0   65536   UCLOUD-NET   MAINT-CNNIC-AP
 110.6.0.0   131072   InnerMongoliaWulanhaote82AB80MH01localpppoe4   :["% APNIC found the following authoritative answer from: whois.apnic.net
 110.16.0.0   262144   InnerMongoliabaotou51AB80MH01pppoe1   :["% APNIC found the following authoritative answer from: whois.apnic.net
 110.40.0.0   262144   YLWL   MAINT-CNNIC-AP
@@ -544,7 +373,6 @@
 110.76.192.0   16384   HNPCNET   MAINT-CNNIC-AP
 110.77.0.0   32768   HNPCNET   MAINT-CNNIC-AP
 110.165.32.0   8192   AANETS   MAINT-AP-FEIKE1
-110.172.192.0   16384   HSOFT   :["% APNIC found the following authoritative answer from: whois.apnic.net
 110.173.0.0   8192   CNISP-UNION   MAINT-AP-CNISP
 110.173.32.0   4096   CNISP-UNION   MAINT-AP-CNISP
 110.173.96.0   8192   CTHKI-HK   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -572,7 +400,6 @@
 113.18.0.0   65536   Chinafic   MAINT-CNNIC-AP
 113.24.0.0   262144   sxyqbas   :["% APNIC found the following authoritative answer from: whois.apnic.net
 113.31.0.0   65536   GBest   :["% APNIC found the following authoritative answer from: whois.apnic.net
-113.48.0.0   262144   CGWNET   MAINT-CNNIC-AP
 113.52.160.0   8192   SOS   MAINT-CNNIC-AP
 113.54.0.0   131072   SICAU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 113.130.96.0   4096   CAFNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -580,13 +407,11 @@
 113.197.100.0   1024   Magna-Asiapacific   MAINT-CNNIC-AP
 113.202.0.0   65536   CCCIL   MAINT-CNNIC-AP
 113.204.0.0   262144   yuedu-netbar   :["% APNIC found the following authoritative answer from: whois.apnic.net
-113.208.96.0   8192   CBDTELENET   MAINT-CNNIC-AP
 113.208.128.0   32768   CONCORDNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 113.209.0.0   65536   PRIMETELECOM   MAINT-CNNIC-AP
 113.212.0.0   16384   CONCORDNET   MAINT-CNNIC-AP
 113.212.100.0   1024   CDFG   MAINT-CNNIC-AP
 113.213.0.0   32768   FAW   MAINT-CNNIC-AP
-114.28.0.0   65536   Shanghai263   MAINT-CNNIC-AP
 114.64.0.0   262144   shanxun   :["% APNIC found the following authoritative answer from: whois.apnic.net
 114.110.0.0   4096   CNISP-UNION   MAINT-AP-CNISP
 114.110.64.0   16384   JHBN   MAINT-CNNIC-AP
@@ -605,7 +430,6 @@
 114.196.0.0   131072   DQTNET   MAINT-CNNIC-AP
 114.214.0.0   65536   SDUFBN-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 115.24.0.0   262144   SXU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-115.47.0.0   65536   HSOFT   MAINT-CNNIC-AP
 115.84.0.0   16384   CAPNET   MAINT-CNNIC-AP
 115.85.192.0   16384   CHINAWEST-HING-SHCHOOL   :["% APNIC found the following authoritative answer from: whois.apnic.net
 115.154.0.0   131072   XJTU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -626,7 +450,6 @@
 116.194.0.0   131072   AORONG   MAINT-CNNIC-AP
 116.196.0.0   65536   CNISP-UNION   MAINT-AP-CNISP
 116.198.0.0   65536   hitiit   :["% APNIC found the following authoritative answer from: whois.apnic.net
-116.199.0.0   32768   GZPRBNET   MAINT-CNNIC-AP
 116.199.128.0   8192   HuaXiaGuangWang   MAINT-CNNIC-AP
 116.204.0.0   131072   Wotone   MAINT-CNNIC-AP
 116.212.160.0   4096   EWXB   MAINT-CNNIC-AP
@@ -647,8 +470,6 @@
 117.122.128.0   32768   PRIMETELECOM   MAINT-CNNIC-AP
 118.24.0.0   131072   SeeHuNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 118.30.0.0   65536   SeeHuNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-118.64.0.0   131072   CGWNET   MAINT-CNNIC-AP
-118.66.0.0   65536   CGWNET   MAINT-CNNIC-AP
 118.67.112.0   4096   CNET   MAINT-CNNIC-AP
 118.72.0.0   524288   Sxdt-kouquanju-BAS   :["% APNIC found the following authoritative answer from: whois.apnic.net
 118.80.0.0   131072   sxyq-yangquan1-BAS   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -656,7 +477,6 @@
 118.88.64.0   16384   JLYTTX   MAINT-CNNIC-AP
 118.88.128.0   32768   JLYTTX   MAINT-CNNIC-AP
 118.91.240.0   4096   RUILIANIDC   MAINT-CNNIC-AP
-118.126.0.0   65536   ZSN   MAINT-CNNIC-AP
 118.144.0.0   262144   ZHONG-BANG-YA-TONG   MAINT-CNNIC-AP
 118.188.0.0   65536   HJSZ-COM   :["% APNIC found the following authoritative answer from: whois.apnic.net
 118.191.0.0   65536   SUNHONGS   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -669,7 +489,6 @@
 119.3.0.0   65536   HKSCC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 119.8.0.0   65536   SACCL   MAINT-CN-OSD
 119.15.136.0   2048   DXNET   MAINT-CNNIC-AP
-119.18.192.0   4096   HSOFT   MAINT-CNNIC-AP
 119.18.208.0   2048   CSRNET   MAINT-CNNIC-AP
 119.18.240.0   4096   OriYANET   MAINT-CNNIC-AP
 119.19.0.0   65536   TYNET   MAINT-CN-CHBNET
@@ -679,7 +498,6 @@
 119.28.0.0   131072   ComsenzNet   MAINT-CNNIC-AP
 119.30.48.0   4096   GLOBAL   MAINT-CNNIC-AP
 119.31.192.0   8192   HNPCNET   MAINT-CNNIC-AP
-119.32.0.0   262144   GZPRBNET   MAINT-CNNIC-AP
 119.37.0.0   32768   SH-21VIANET   MAINT-CNNIC-AP
 119.37.128.0   16384   SH-21VIANET   MAINT-CNNIC-AP
 119.37.192.0   16384   SRT   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -687,7 +505,6 @@
 119.38.128.0   16384   RJNET   MAINT-CNNIC-AP
 119.38.192.0   4096   ULICnet   :["% APNIC found the following authoritative answer from: whois.apnic.net
 119.38.208.0   4096   ALIBABA-CN-NET   MAINT-CNNIC-AP
-119.38.224.0   8192   CDTNET   MAINT-CNNIC-AP
 119.40.0.0   16384   CHT   :["% APNIC found the following authoritative answer from: whois.apnic.net
 119.40.64.0   4096   RBCN-NET   MAINT-CNNIC-AP
 119.40.128.0   32768   ZHCATV   MAINT-CNNIC-AP
@@ -700,11 +517,9 @@
 119.59.128.0   32768   ZTWL   MAINT-CNNIC-AP
 119.61.0.0   65536   NET263   MAINT-CNNIC-AP
 119.63.32.0   8192   sihaiidc   :["% APNIC found the following authoritative answer from: whois.apnic.net
-119.75.208.0   4096   Baidu   MAINT-CNNIC-AP
 119.80.0.0   65536   HS-NET   MAINT-CNNIC-AP
 119.88.0.0   262144   XDX   :["% APNIC found the following authoritative answer from: whois.apnic.net
 119.148.160.0   4096   TOCC   MAINT-CNNIC-AP
-119.161.128.0   32768   HSOFT   :["% APNIC found the following authoritative answer from: whois.apnic.net
 119.232.0.0   131072   ASIASTAR   :["% APNIC found the following authoritative answer from: whois.apnic.net
 119.235.128.0   16384   FREENET   MAINT-CNNIC-AP
 119.252.240.0   4096   M176NET   MAINT-CNNIC-AP
@@ -714,7 +529,6 @@
 120.48.0.0   131072   CITICNET-CN   MAINT-CNNIC-AP
 120.52.0.0   65536   CU-CDC   MAINT-CNNIC-AP
 120.53.0.0   65536   Voda   MAINT-CNNIC-AP
-120.54.0.0   131072   UPNET   MAINT-CNNIC-AP
 120.64.0.0   262144   XDX   MAINT-CNNIC-AP
 120.72.32.0   8192   Zhonglianxuntong   :["% APNIC found the following authoritative answer from: whois.apnic.net
 120.72.128.0   32768   Chinapost   MAINT-CNNIC-AP
@@ -723,21 +537,16 @@
 120.128.0.0   262144   xipunetwork   MAINT-CNNIC-AP
 120.132.0.0   32768   TYKD   MAINT-CNNIC-AP
 120.132.128.0   32768   CHINA-21VIANET   MAINT-CN-21VIANET
-120.133.0.0   65536   Yakue   MAINT-CNNIC-AP
-120.134.0.0   131072   Yakue   MAINT-CNNIC-AP
 120.136.128.0   16384   DSNET   MAINT-CNNIC-AP
 120.137.0.0   32768   BennalongNet   MAINT-CNNIC-AP
 121.0.16.0   4096   ALIBABA-CN-NET   MAINT-CNNIC-AP
 121.28.0.0   131072   guobin-coLtd   :["% APNIC found the following authoritative answer from: whois.apnic.net
 121.30.0.0   65536   SX-DT-IPPOOL   :["% APNIC found the following authoritative answer from: whois.apnic.net
-121.36.0.0   65536   CDTNET   MAINT-CNNIC-AP
 121.37.0.0   65536   ChinaMotion   MAINT-CNNIC-AP
-121.38.0.0   131072   CGWNET   MAINT-CNNIC-AP
 121.46.0.0   16384   ofidc   MAINT-CNNIC-AP
 121.46.128.0   32768   ofidc   MAINT-CNNIC-AP
 121.48.0.0   131072   SCPOLICEC-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 121.52.208.0   4096   TopnewNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-121.52.224.0   8192   NXIDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 121.58.144.0   4096   LTEL   :["% APNIC found the following authoritative answer from: whois.apnic.net
 121.79.128.0   16384   LTEL   :["% APNIC found the following authoritative answer from: whois.apnic.net
 121.101.208.0   4096   SUNINFO-MDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -795,7 +604,6 @@
 123.253.0.0   65536   APNIC-AP   APNIC-HM
 124.6.64.0   16384   LiaoHe-HuaYu   MAINT-CNNIC-AP
 124.40.112.0   4096   FHGROUP   :["% APNIC found the following authoritative answer from: whois.apnic.net
-124.40.128.0   16384   GZPRBNET   MAINT-CNNIC-AP
 124.42.128.0   32768   ZTWL   MAINT-CNNIC-AP
 124.67.0.0   65536   IMH59ERXP   :["% APNIC found the following authoritative answer from: whois.apnic.net
 124.88.0.0   65536   HONGJINBASPPP   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -810,8 +618,6 @@
 124.242.0.0   65536   AWCN   MAINT-CNNIC-AP
 124.248.0.0   32768   KuanjieNet   :["% APNIC found the following authoritative answer from: whois.apnic.net
 124.249.0.0   65536   RDTN   MAINT-CNNIC-AP
-124.250.0.0   131072   Yakue   MAINT-CNNIC-AP
-125.31.192.0   16384   GZPRBNET   MAINT-CNNIC-AP
 125.35.0.0   32768   JHM1-CO   :["% APNIC found the following authoritative answer from: whois.apnic.net
 125.58.128.0   32768   DQTNET   MAINT-CNNIC-AP
 125.61.128.0   32768   LTEL   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -829,53 +635,17 @@
 125.254.192.0   16384   RANGEIDC   MAINT-CNNIC-AP
 139.159.0.0   65536   CNISP-UNION   MAINT-AP-CNISP
 139.176.0.0   65536   NET263   MAINT-CNNIC-AP
-139.217.0.0   65536   MCCL-CHN   MAINT-CNNIC-AP
-139.219.0.0   65536   MCCL-CHN   MAINT-CNNIC-AP
 140.143.0.0   65536   IPCLUB   :["% APNIC found the following authoritative answer from: whois.apnic.net
-140.210.0.0   65536   ZONERGY   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.129.152.0   1024   SZDF-NET-CN   MAINT-CN-DF
 150.129.216.0   1024   SZWSNT-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.242.0.0   1024   STIDC   MAINT-CNNIC-AP
 150.242.8.0   1024   CU-CDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.242.28.0   1024   NXIDC   MAINT-CNNIC-AP
-150.242.44.0   1024   QIHOO   MAINT-CNNIC-AP
-150.242.48.0   1024   MCCL-CHN   MAINT-CNNIC-AP
 150.242.56.0   1024   CloudVsp   MAINT-CNNIC-AP
-150.242.80.0   1024   XMGBNET   MAINT-CNNIC-AP
-150.242.92.0   1024   CBDTELENET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.242.96.0   1024   ZONERGY   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.242.112.0   1024   YOVOLE   MAINT-CNNIC-AP
-150.242.116.0   1024   CQWLnet   MAINT-CNNIC-AP
-150.242.120.0   1024   Baidu   MAINT-CNNIC-AP
-150.242.152.0   1024   WXTech   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.242.160.0   1024   ANLAI   MAINT-CNNIC-AP
-150.242.164.0   1024   CGWNET   MAINT-CNNIC-AP
 150.242.184.0   1024   TGIDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 150.242.188.0   1024   YUNYSHCOM   MAINT-CNNIC-AP
 150.242.192.0   1024   GSCOM   MAINT-CNNIC-AP
 150.242.212.0   1024   CRL-HK2   MAINT-HK-HTFNET
-150.242.224.0   1024   cqgywl   :["% APNIC found the following authoritative answer from: whois.apnic.net
-150.242.236.0   1024   KHTech   MAINT-CNNIC-AP
-150.242.240.0   1024   JHTXNET   MAINT-CNNIC-AP
-150.242.244.0   1024   FOCUSTECHNET   MAINT-CNNIC-AP
 150.242.248.0   1024   HLHT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-152.104.128.0   32768   ANLAI   MAINT-CNNIC-AP
 161.207.0.0   65536   CNPCNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 162.105.0.0   65536   PUNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-163.53.0.0   1024   DYNET   MAINT-CNNIC-AP
-163.53.4.0   1024   CGWICT   MAINT-CNNIC-AP
-163.53.8.0   1024   Yakue   MAINT-CNNIC-AP
-163.53.12.0   1024   Sungeo   MAINT-CNNIC-AP
-163.53.44.0   1024   GSSNET   MAINT-CNNIC-AP
-163.53.48.0   1024   ERENB-NET   MAINT-CNNIC-AP
-163.53.52.0   1024   Ebadu   MAINT-CNNIC-AP
-163.53.60.0   1024   TopnewInfoNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
-163.53.64.0   1024   TNCNT   MAINT-CNNIC-AP
-163.53.160.0   1024   TGCNT   MAINT-CNNIC-AP
-163.53.164.0   1024   UCLOUD-NET   MAINT-CNNIC-AP
-163.53.168.0   1024   LHYGNET   MAINT-CNNIC-AP
-163.53.172.0   1024   HSOFT   MAINT-CNNIC-AP
-163.53.188.0   1024   GOPHA-HRB-IDC   MAINT-CNNIC-AP
 163.53.240.0   1024   JK-ICTECH   MAINT-CNNIC-AP
 166.111.0.0   65536   TUNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 167.139.0.0   65536   SHAVW   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -884,24 +654,17 @@
 175.24.0.0   262144   HTXX   MAINT-CNNIC-AP
 175.30.0.0   131072   CC-YIQITONGXIN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 175.46.0.0   131072   DQTNET   MAINT-CNNIC-AP
-175.102.0.0   65536   YOVOLE   MAINT-CNNIC-AP
 175.106.128.0   32768   ZYTX   MAINT-CNNIC-AP
-175.178.0.0   65536   XMGBNET   MAINT-CNNIC-AP
 175.185.0.0   65536   ECUST-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 175.186.0.0   131072   FDU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-180.76.0.0   65536   Baidu   MAINT-CNNIC-AP
 180.77.0.0   65536   SANXIN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 180.78.0.0   131072   SUNINFO-MDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
 180.84.0.0   131072   SCU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-180.86.0.0   65536   HSOFT   MAINT-CNNIC-AP
 180.94.56.0   2048   CopyNet   MAINT-CNNIC-AP
 180.94.96.0   4096   CopyNet   MAINT-CNNIC-AP
 180.148.224.0   8192   e-Word   MAINT-CNNIC-AP
 180.149.128.0   8192   BJTEL   MAINT-CNNIC-AP
-180.150.160.0   8192   ZSN   MAINT-CNNIC-AP
-180.178.192.0   16384   XMGBNET   MAINT-CNNIC-AP
 180.184.0.0   262144   CNISP-UNION   MAINT-AP-CNISP
-180.188.0.0   32768   XMGBNET   MAINT-CNNIC-AP
 180.189.148.0   1024   BLNET   MAINT-CNNIC-AP
 180.202.0.0   131072   FibrLINK   MAINT-CNNIC-AP
 180.208.0.0   131072   YZU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -914,7 +677,6 @@
 182.49.0.0   65536   WZCN   MAINT-CNNIC-AP
 182.50.0.0   4096   LINKTOM   :["% APNIC found the following authoritative answer from: whois.apnic.net
 182.51.0.0   65536   HEBBTN   MAINT-CNNIC-AP
-182.61.0.0   65536   Baidu   MAINT-CNNIC-AP
 182.157.0.0   65536   Chinafic   MAINT-CNNIC-AP
 182.160.64.0   8192   ZYNET   MAINT-CNNIC-AP
 182.174.0.0   131072   CHINA-21VIANET   MAINT-CN-21VIANET
@@ -922,7 +684,6 @@
 182.238.0.0   65536   TJBTN   MAINT-CNNIC-AP
 182.239.0.0   8192   chinyon   MAINT-CNNIC-AP
 183.81.180.0   1024   NET263   MAINT-CNNIC-AP
-183.84.0.0   131072   Yakue   MAINT-CNNIC-AP
 183.91.128.0   1024   FT-ISP   MAINT-CNNIC-AP
 183.91.144.0   4096   CHINAENTERCOM   MAINT-CNNIC-AP
 183.168.0.0   131072   YMC-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -967,7 +728,6 @@
 202.70.0.0   8192   ChinaMotion   MAINT-CNNIC-AP
 202.74.8.0   2048   BYTV   :["% APNIC found the following authoritative answer from: whois.apnic.net
 202.75.208.0   4096   SRT   :["% APNIC found the following authoritative answer from: whois.apnic.net
-202.84.0.0   1024   CIC-HK   MAINT-CIC-AP
 202.84.16.0   512   XHNEWS   MAINT-CNNIC-AP
 202.89.232.0   2048   MSNJVCNNET   MAINT-CNNIC-AP
 202.90.0.0   1024   TOPSLANE-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -975,10 +735,6 @@
 202.91.224.0   8192   SRT   :["% APNIC found the following authoritative answer from: whois.apnic.net
 202.92.0.0   1024   NJYY-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 202.93.0.0   1024   CNINFO-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-202.95.0.0   1024   EASTNET-CN   MAINT-EASTNET-AP
-202.95.4.0   1024   EASTNET-CN   MAINT-EASTNET-AP
-202.95.8.0   2048   EASTNET-CN   MAINT-EASTNET-AP
-202.95.16.0   4096   EASTNET-CN   MAINT-EASTNET-AP
 202.95.252.0   1024   SBIS-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 202.96.80.0   4096   PANJIN-OIL-FIELD-HUAYU-INFO   :["% APNIC found the following authoritative answer from: whois.apnic.net
 202.96.136.0   2048   shenzhen12012   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -1102,7 +858,6 @@
 203.82.16.0   2048   CTHKI-HK   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.83.56.0   2048   CAFNET   MAINT-CNNIC-AP
 203.86.0.0   8192   ZongHeng-IDC   :["% APNIC found the following authoritative answer from: whois.apnic.net
-203.86.32.0   8192   CBDTELENET   MAINT-CNNIC-AP
 203.86.80.0   4096   WATER   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.89.0.0   1024   TENWAY-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.89.8.0   2048   CTHKI-HK   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -1150,10 +905,8 @@
 203.135.96.0   4096   KuanjieNet   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.135.112.0   4096   KuanjieNet   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.135.160.0   4096   KuanjieNet   :["% APNIC found the following authoritative answer from: whois.apnic.net
-203.148.0.0   16384   ANLAI   MAINT-CNNIC-AP
 203.148.64.0   4096   LGNET-China   MAINT-CNNIC-AP
 203.156.192.0   16384   GLOBAL   :["% APNIC found the following authoritative answer from: whois.apnic.net
-203.158.16.0   2048   HSOFT   MAINT-CNNIC-AP
 203.160.104.0   2048   CTHKI-HK   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.161.180.0   256   SG-CHINA-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.166.160.0   8192   SH-21VIANET   MAINT-CNNIC-AP
@@ -1164,7 +917,6 @@
 203.175.192.0   16384   NBIP   MAINT-CN-NBIP
 203.176.0.0   16384   chinyon   MAINT-CNNIC-AP
 203.176.168.0   2048   DXNET   MAINT-CNNIC-AP
-203.184.80.0   4096   CUPNET   MAINT-CNNIC-AP
 203.187.160.0   8192   THBJ   :["% APNIC found the following authoritative answer from: whois.apnic.net
 203.190.96.0   4096   SETVN   MAINT-CNNIC-AP
 203.191.16.0   4096   onenet   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -1228,7 +980,6 @@
 211.64.0.0   262144   SDUSTJN-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.68.0.0   131072   BIT-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.70.0.0   131072   NTSC-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
-211.80.0.0   65536   SHCMUSIC-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.82.0.0   65536   TYU-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.83.0.0   65536   NSMC-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.84.0.0   131072   HNTA-CN   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -1239,7 +990,6 @@
 211.99.96.0   8192   SHANZEN--1   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.100.0.0   65536   BJTEL   MAINT-CNNIC-AP
 211.101.128.0   32768   NETBRO   :["% APNIC found the following authoritative answer from: whois.apnic.net
-211.148.0.0   262144   STIDC   MAINT-CNNIC-AP
 211.152.0.0   131072   CHUANGLIANNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.154.0.0   65536   PRIMETELECOM   MAINT-CNNIC-AP
 211.155.0.0   16384   SDEINET   :["% APNIC found the following authoritative answer from: whois.apnic.net
@@ -1247,7 +997,6 @@
 211.155.128.0   32768   HDBMAN   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.156.0.0   262144   GLOBALNETWORK   :["% APNIC found the following authoritative answer from: whois.apnic.net
 211.160.0.0   262144   FibrLINK   MAINT-CNNIC-AP
-211.164.0.0   262144   CGWNET   :["% APNIC found the following authoritative answer from: whois.apnic.net
 218.0.0.0   65536   FENGHUA-CHENLUCUI-HOSPITAL   :["% APNIC found the following authoritative answer from: whois.apnic.net
 218.21.128.0   32768   ICZX   :["% APNIC found the following authoritative answer from: whois.apnic.net
 218.26.0.0   65536   DT-qxj   :["% APNIC found the following authoritative answer from: whois.apnic.net
