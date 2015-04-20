@@ -1,6 +1,14 @@
 中国电信	chinanet
 中国联通	unicom
 中国移动	cmcc
+中国铁通	cttnet
+教育网	cernet
+科技网	cstnet
+有线通	colnet
+有线宽带	etrunk
+长城宽带	gwbn
+方正宽带	founderbn
+
 
 获取IP信息来源：
 中国IP地址信息查询系统：http://www.cnisp.org/

@@ -71,6 +71,12 @@ public class ObtainIPLine {
 			start = content.indexOf(q2);
 			end = content.indexOf("\"]},{\"",start+ q2.length());
 			String mntLower = content.substring(start+ q2.length(), end);
+			if(mntLower.indexOf("whois.apnic.net")!=-1){
+				String q3 = "{\"name\":\"mnt-by\",\"links\":[{\"text\":\"";
+				start = content.indexOf(q3);
+				end = content.indexOf("\",\"url\":\"",start+ q3.length());
+				mntLower = content.substring(start+ q3.length(), end);				
+			}
 			String[] ss = {netname,mntLower};
 			return ss;
 		}
