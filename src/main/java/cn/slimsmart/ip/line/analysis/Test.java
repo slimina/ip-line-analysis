@@ -12,6 +12,7 @@ public class Test {
 	
 	static String ipv4="http://www.cnisp.org/Home/Ipv4?ip=";
 	static String ipas = "http://www.cnisp.org/Home/IpAs?searchAction=ip&keyword=";
+	static String ip138 = "http://www.cnisp.org/Home/Ip138?ip=";
 	
 	public static void main(String[] args) throws Exception {
 		File file = new File("src/main/resources/ip-line-unknown");
@@ -21,8 +22,26 @@ public class Test {
 			line = line.trim();
 			if (!line.equals("")) {
 				 String[] aa =line.split("\\s+");
-				 if(getUrlContent(ipv4+aa[0]).indexOf("该段地址不属于中国使用")!=-1 && getUrlContent(ipas+aa[0]).indexOf("<tr>            <td>            </td>            <td>            </td>            <td>            </td>            <td>            </td>            <td>            </td>            <td>            </td>        </tr>")!=-1){
-					 System.out.println(aa[2]);
+				 String ipaddr = getUrlContent(ipv4+aa[0]);
+				 if(ipaddr.indexOf("该段地址不属于中国使用")!=-1 && getUrlContent(ipas+aa[0]).indexOf("<tr>            <td>            </td>            <td>            </td>            <td>            </td>            <td>            </td>            <td>            </td>            <td>            </td>        </tr>")!=-1){
+					 System.out.println(aa[2]+"======");
+				 }else{
+					 ipaddr = ipaddr.substring(ipaddr.indexOf("<tr>")+4);
+					 ipaddr = ipaddr.substring(ipaddr.indexOf("<tr>")+4);
+					 
+					 ipaddr = ipaddr.substring(ipaddr.indexOf("<td>")+4);
+					 ipaddr = ipaddr.substring(ipaddr.indexOf("<td>")+4);
+					 ipaddr = ipaddr.substring(ipaddr.indexOf("<td>")+4);
+					 ipaddr = ipaddr.substring(0, ipaddr.indexOf("</td>"));
+					 if(ipaddr.indexOf("td colspan=\"4\">")!=-1){
+						 ipaddr = "";
+					 }
+					 
+					 String ip138Addr = getUrlContent(ip138+aa[0]);
+					 ip138Addr = ip138Addr.substring(ip138Addr.indexOf("<td width=\"305px;\">")+"<td width=\"305px;\">".length());
+					 ip138Addr = ip138Addr.substring(0, ip138Addr.indexOf("</td>        </tr> "));
+					 ipaddr += "	"+ip138Addr.trim();
+					 System.out.println(aa[2]+" --------- "+ipaddr);
 				 }
 			}
 		}
