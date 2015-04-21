@@ -36,7 +36,7 @@ public class IpUitl {
 	
 	public static boolean isContainUnknownNetName(String netname,Set<String> set){
 		for(String name : set){
-			if(netname.toUpperCase().indexOf(name.toUpperCase())!= -1){
+			if(netname.equalsIgnoreCase(name)){
 				return true;
 			}
 		}

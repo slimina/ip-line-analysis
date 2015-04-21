@@ -9,6 +9,7 @@
 方正宽带	founderbn
 广电网	chinabtn
 天威宽带	topwaynet
+有线宽带	etrunk
 
 
 获取IP信息来源：
