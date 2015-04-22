@@ -27,6 +27,8 @@
 
 有线宽带	etrunk
 
+最新结果下载：http://zhutianwei.cn/cnisp/
+
 获取IP信息来源：
 
 亚太地区IP地址：ftp://ftp.apnic.net/public/stats/apnic/delegated-apnic-latest
